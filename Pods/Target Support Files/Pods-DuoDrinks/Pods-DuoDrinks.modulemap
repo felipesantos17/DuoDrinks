@@ -1,0 +1,6 @@
+framework module Pods_DuoDrinks {
+  umbrella header "Pods-DuoDrinks-umbrella.h"
+
+  export *
+  module * { export * }
+}
